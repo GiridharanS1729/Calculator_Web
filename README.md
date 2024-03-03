@@ -1,2 +1,6 @@
 # Calendar Web Application
-<img src="./images/output.png" width="100" height="100" alt="Web Page Output">
+
+<br>
+<img src="./images/output.png" width="800" height="400" alt="Web Page Output">
+<br>
+<p style="color:#f00;">Developed By Giriharan S</p>
